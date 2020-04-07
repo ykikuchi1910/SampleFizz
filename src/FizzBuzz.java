@@ -1,7 +1,7 @@
 public class FizzBuzz {
 // 3で割り切れる = Fizz
 // 5で割り切れる = Buzz
-// 15で割り切れる = FizzBuzz
+// 15(3または5)で割り切れる = FizzBuzz
     public static void main(String[] args){
         // 見出し表示の出力
         System.out.println("実行例");
